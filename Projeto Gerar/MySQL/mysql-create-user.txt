@@ -1,0 +1,4 @@
+CREATE USER 'projeto'@'localhost' IDENTIFIED WITH mysql_native_password BY 'toor';
+GRANT ALL PRIVILEGES ON database.table or *.* TO 'projeto'@'localhost' WITH GRANT OPTION;
+
+DROP USER 'projeto'@'localhost';
