@@ -8,19 +8,19 @@ SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
 
 -- -----------------------------------------------------
--- Schema mydb
+-- Schema sistemag
 -- -----------------------------------------------------
 
 -- -----------------------------------------------------
--- Schema mydb
+-- Schema sistemag
 -- -----------------------------------------------------
-CREATE SCHEMA IF NOT EXISTS `mydb` DEFAULT CHARACTER SET utf8 ;
-USE `mydb` ;
+CREATE SCHEMA IF NOT EXISTS `sistemag` DEFAULT CHARACTER SET utf8 ;
+USE `sistemag` ;
 
 -- -----------------------------------------------------
--- Table `mydb`.`instrutor`
+-- Table `sistemag`.`instrutor`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `mydb`.`instrutor` (
+CREATE TABLE IF NOT EXISTS `sistemag`.`instrutor` (
   `cpf` VARCHAR(11) NOT NULL,
   `nome` VARCHAR(45) NULL,
   `telefone` VARCHAR(11) NULL,
@@ -32,9 +32,9 @@ ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `mydb`.`curso`
+-- Table `sistemag`.`curso`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `mydb`.`curso` (
+CREATE TABLE IF NOT EXISTS `sistemag`.`curso` (
   `id` INT NOT NULL,
   `nome` VARCHAR(45) NULL,
   `cargahoraria` INT NULL,
@@ -43,9 +43,9 @@ ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `mydb`.`turma`
+-- Table `sistemag`.`turma`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `mydb`.`turma` (
+CREATE TABLE IF NOT EXISTS `sistemag`.`turma` (
   `codturma` VARCHAR(10) NOT NULL,
   `curso` INT NULL,
   `instrutor` VARCHAR(11) NULL,
@@ -57,21 +57,21 @@ CREATE TABLE IF NOT EXISTS `mydb`.`turma` (
   INDEX `fk_curso_idx` (`curso` ASC),
   CONSTRAINT `fk_instrutor`
     FOREIGN KEY (`instrutor`)
-    REFERENCES `mydb`.`instrutor` (`cpf`)
+    REFERENCES `sistemag`.`instrutor` (`cpf`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
   CONSTRAINT `fk_curso`
     FOREIGN KEY (`curso`)
-    REFERENCES `mydb`.`curso` (`id`)
+    REFERENCES `sistemag`.`curso` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `mydb`.`empresa`
+-- Table `sistemag`.`empresa`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `mydb`.`empresa` (
+CREATE TABLE IF NOT EXISTS `sistemag`.`empresa` (
   `cnpj` VARCHAR(14) NOT NULL,
   `razao` VARCHAR(45) NULL,
   `inscricao` VARCHAR(45) NULL,
@@ -88,9 +88,9 @@ ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `mydb`.`aluno`
+-- Table `sistemag`.`aluno`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `mydb`.`aluno` (
+CREATE TABLE IF NOT EXISTS `sistemag`.`aluno` (
   `cpf` VARCHAR(11) NOT NULL,
   `rg` VARCHAR(45) NULL,
   `nome` VARCHAR(45) NULL,
@@ -102,9 +102,9 @@ ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `mydb`.`matricula`
+-- Table `sistemag`.`matricula`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `mydb`.`matricula` (
+CREATE TABLE IF NOT EXISTS `sistemag`.`matricula` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `aluno` VARCHAR(11) NULL,
   `empresa` VARCHAR(14) NULL,
@@ -117,42 +117,42 @@ CREATE TABLE IF NOT EXISTS `mydb`.`matricula` (
   INDEX `fk_turma` (`turma` ASC),
   CONSTRAINT `fk_aluno`
     FOREIGN KEY (`aluno`)
-    REFERENCES `mydb`.`aluno` (`cpf`)
+    REFERENCES `sistemag`.`aluno` (`cpf`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
   CONSTRAINT `fk_empresa`
     FOREIGN KEY (`empresa`)
-    REFERENCES `mydb`.`empresa` (`cnpj`)
+    REFERENCES `sistemag`.`empresa` (`cnpj`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
   CONSTRAINT `fk_turma`
     FOREIGN KEY (`turma`)
-    REFERENCES `mydb`.`turma` (`codturma`)
+    REFERENCES `sistemag`.`turma` (`codturma`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `mydb`.`certificado`
+-- Table `sistemag`.`certificado`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `mydb`.`certificado` (
+CREATE TABLE IF NOT EXISTS `sistemag`.`certificado` (
   `numero` INT NOT NULL,
   `matricula` INT NULL,
   PRIMARY KEY (`numero`),
   INDEX `fk_matricula_idx` (`matricula` ASC),
   CONSTRAINT `fk_matricula`
     FOREIGN KEY (`matricula`)
-    REFERENCES `mydb`.`matricula` (`id`)
+    REFERENCES `sistemag`.`matricula` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `mydb`.`custos`
+-- Table `sistemag`.`custos`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `mydb`.`custos` (
+CREATE TABLE IF NOT EXISTS `sistemag`.`custos` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `luz` DECIMAL NULL,
   `agua` DECIMAL NULL,

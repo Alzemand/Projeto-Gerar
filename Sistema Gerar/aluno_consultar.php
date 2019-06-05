@@ -73,7 +73,24 @@
 
   <div class="col-md-12 col-lg-12">
         <div class="box">
-          Tste
+          <div class="table-responsive">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                <th scope="col">#</th>
+                <th scope="col">Primeiro</th>
+                <th scope="col">Último</th>
+                <th scope="col">Nickname</th>
+                <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+            <?php
+            include('php/alunoconsulta.php');
+            ?>
+          </tbody>
+          </table>
+          </div>
         </div>
       </div>
 
