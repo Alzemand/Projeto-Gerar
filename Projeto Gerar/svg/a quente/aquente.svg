@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -252,13 +252,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1021"
      id="namedview4"
      showgrid="false"
      borderlayer="true"
      inkscape:zoom="0.600818"
-     inkscape:cx="588.91852"
-     inkscape:cy="549.58147"
+     inkscape:cx="283.50157"
+     inkscape:cy="552.91027"
      inkscape:window-x="1366"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -542,7 +542,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#006ce2;fill-opacity:1;stroke-width:1.02444553;">(22) 99747-0165 | 99621-4664 | 3087-0384</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.11426687;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.11426687"
      x="660.99799"
      y="469.16391"
      id="text1226"><tspan
@@ -550,10 +550,10 @@
        id="tspan1224"
        x="660.99799"
        y="469.16391"
-       style="stroke-width:1.11426687;font-size:48px;">Data: 1 de Junho</tspan><tspan
+       style="font-size:48px;stroke-width:1.11426687">Data: 20 de junho</tspan><tspan
        sodipodi:role="line"
        x="660.99799"
-       y="524.87726"
+       y="529.16394"
        id="tspan1228"
-       style="stroke-width:1.11426687;font-size:48px;">Hora: 08H00 ás 17H00</tspan></text>
+       style="font-size:48px;stroke-width:1.11426687">Hora: 08H00 ás 17H00</tspan></text>
 </svg>
