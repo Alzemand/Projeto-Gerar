@@ -252,13 +252,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1021"
      id="namedview4"
      showgrid="false"
      borderlayer="true"
-     inkscape:zoom="0.600818"
-     inkscape:cx="22.493961"
-     inkscape:cy="589.6453"
+     inkscape:zoom="0.42484248"
+     inkscape:cx="130.9973"
+     inkscape:cy="564.70124"
      inkscape:window-x="1366"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -288,7 +288,7 @@
      width="2560"
      clip-path="url(#clipPath1216)" />
   <rect
-     style="fill:#000080;fill-opacity:0.66058391;stroke-width:1.00246811"
+     style="fill:#000080;fill-opacity:0.45185184;stroke-width:1.00246811"
      id="rect4721"
      width="1337.5844"
      height="1112.6644"
@@ -305,7 +305,7 @@
      clip-path="url(#clipPath1210)"
      transform="translate(869.7797,1298.7543)" />
   <rect
-     style="fill:#00004c;fill-opacity:0.75555557;stroke-width:2.14953566"
+     style="fill:#00004c;fill-opacity:0.58518517;stroke-width:2.14953566"
      id="rect4727"
      width="2071.3516"
      height="1431.8209"
@@ -551,7 +551,7 @@
        id="tspan1224"
        x="665.53625"
        y="449.7359"
-       style="stroke-width:1.35184932">Data: 30, 31 de Maio e 1 de Junho</tspan><tspan
+       style="stroke-width:1.35184932">Data: 26, 27 e 28 de junho</tspan><tspan
        sodipodi:role="line"
        x="665.53625"
        y="517.32837"
@@ -559,13 +559,20 @@
        style="stroke-width:1.35184932">Hora: 17H45 ás 21H30</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72.8483429px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.8212086;"
-     x="832.03198"
-     y="352.45642"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.46704102px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.33667612"
+     x="456.76981"
+     y="390.1459"
      id="text889"><tspan
        sodipodi:role="line"
        id="tspan887"
-       x="832.03198"
-       y="352.45642"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi Italic';fill:#ffffff;stroke-width:1.8212086;">NOTURNO</tspan></text>
+       x="456.76981"
+       y="390.1459"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:1.33667612">TURMA NOTURNA</tspan></text>
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.96697938;stroke-opacity:1"
+     id="rect892"
+     width="453.54834"
+     height="5.8253922"
+     x="439.72583"
+     y="397.01526" />
 </svg>

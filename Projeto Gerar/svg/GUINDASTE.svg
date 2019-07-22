@@ -218,15 +218,16 @@
      id="namedview4"
      showgrid="false"
      borderlayer="true"
-     inkscape:zoom="0.300409"
-     inkscape:cx="430.50781"
-     inkscape:cy="644.48846"
+     inkscape:zoom="0.5"
+     inkscape:cx="909.31413"
+     inkscape:cy="575.57527"
      inkscape:window-x="1366"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:measure-start="0,0"
-     inkscape:measure-end="0,0" />
+     inkscape:measure-end="0,0"
+     showguides="false" />
   <image
      y="-317.71585"
      x="1604.5232"
@@ -330,7 +331,7 @@
        y="218.64525"
        style="stroke-width:1.2093941">CURSO DE</tspan></text>
   <rect
-     style="opacity:0.41199999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32699239;stroke-linejoin:round;stroke-opacity:1;paint-order:normal"
+     style="opacity:0.41199999;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1.32699239;stroke-linejoin:round;stroke-opacity:1;paint-order:normal"
      id="rect900"
      width="1885.2913"
      height="340.63312"
@@ -338,7 +339,7 @@
      y="-133.12149"
      transform="matrix(0.98809297,-0.153858,0.26176568,0.96513146,0,0)" />
   <rect
-     style="opacity:0.41199999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.53265488;stroke-linejoin:round;stroke-opacity:1;paint-order:normal"
+     style="opacity:0.41199999;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.53265488;stroke-linejoin:round;stroke-opacity:1;paint-order:normal"
      id="rect900-5"
      width="1917.8253"
      height="446.69193"
@@ -384,4 +385,87 @@
        x="327.5257"
        y="825.28754"
        style="stroke-width:1.23984289">COM SIMULADOR DE GUINDASTE</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'Franklin Gothic Demi';font-stretch:normal;font-variant:normal;"
+     x="331.21512"
+     y="89.059914"
+     id="text56"><tspan
+       sodipodi:role="line"
+       id="tspan54"
+       x="331.21512"
+       y="125.45492" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+     x="310.14258"
+     y="52.443165"
+     id="text60"><tspan
+       sodipodi:role="line"
+       id="tspan58"
+       x="310.14258"
+       y="52.443165">HOMOLOGADO PELA PETROBRAS UO-BC</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+     x="523.20898"
+     y="508.4881"
+     id="text64"><tspan
+       sodipodi:role="line"
+       id="tspan62"
+       x="523.20898"
+       y="508.4881">(OPITO STAGE 2)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+     x="469.36011"
+     y="1062.7325"
+     id="text68"><tspan
+       sodipodi:role="line"
+       id="tspan66"
+       x="469.36011"
+       y="1062.7325">R$</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+     x="535.11749"
+     y="979.51257"
+     id="text72"><tspan
+       sodipodi:role="line"
+       id="tspan70"
+       x="535.11749"
+       y="979.51257">MATRICULE-SE</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.67134857px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.51678371"
+     x="531.60541"
+     y="1078.8263"
+     id="text4584"><tspan
+       sodipodi:role="line"
+       id="tspan4582"
+       x="531.60541"
+       y="1078.8263"
+       style="fill:#ffffff;stroke-width:2.51678371">1.199</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+     x="800.5752"
+     y="1061.068"
+     id="text4588"><tspan
+       sodipodi:role="line"
+       id="tspan4586"
+       x="800.5752"
+       y="1061.068">,<tspan
+   style="font-size:42.66666794px"
+   id="tspan4590">99</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+     x="461.95898"
+     y="910.33008"
+     id="text72-3"><tspan
+       sodipodi:role="line"
+       id="tspan70-6"
+       x="461.95898"
+       y="910.33008">Data: 24 a 28 de Junho</tspan></text>
 </svg>

@@ -205,13 +205,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1021"
      id="namedview4"
      showgrid="false"
      borderlayer="true"
-     inkscape:zoom="0.42484248"
-     inkscape:cx="238.65308"
-     inkscape:cy="541.55976"
+     inkscape:zoom="0.600818"
+     inkscape:cx="614.68188"
+     inkscape:cy="587.03804"
      inkscape:window-x="1366"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -241,7 +241,7 @@
      width="1366.0995"
      clip-path="url(#clipPath1052)" />
   <rect
-     style="opacity:0.93;fill:#009400;fill-opacity:0.79197079;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+     style="opacity:0.93;fill:#009400;fill-opacity:0.71111113;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
      id="rect1056"
      width="1333"
      height="1111"
@@ -267,7 +267,7 @@
      clip-path="url(#clipPath4735)" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.77777863px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:0px;opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.66944444;stroke-opacity:0.33486238"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.77777863px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:0px;opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.66944444;stroke-opacity:1;"
      x="510.96777"
      y="113.08102"
      id="text825"><tspan
@@ -275,10 +275,10 @@
        id="tspan823"
        x="510.96777"
        y="113.08102"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.66944444;stroke-opacity:0.33486238">CURSO DE </tspan></text>
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.66944444;stroke-opacity:1;">CURSO DE </tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.86841583px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.1467104;stroke-opacity:0.33486238"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.86841583px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.1467104;stroke-opacity:1;"
      x="663.81659"
      y="213.83516"
      id="text829"><tspan
@@ -286,11 +286,11 @@
        id="tspan827"
        x="663.81659"
        y="213.83516"
-       style="text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2.1467104;stroke-opacity:0.33486238">AUXILIAR DE MOVIMENTAÇÃO</tspan><tspan
+       style="text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2.1467104;stroke-opacity:1;">AUXILIAR DE MOVIMENTAÇÃO</tspan><tspan
        sodipodi:role="line"
        x="663.81659"
        y="321.17068"
-       style="text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2.1467104;stroke-opacity:0.33486238"
+       style="text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:2.1467104;stroke-opacity:1;"
        id="tspan899">DE CARGAS / HOMEM DE ÁREA</tspan></text>
   <g
      id="g2318"
@@ -492,7 +492,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#006ce2;fill-opacity:1;stroke-width:1.16412687">(22) 99747-0165 | 99621-4664 | 3087-0384</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.1633606px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15408397"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.1633606px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15408397;stroke-opacity:1;"
      x="666.40985"
      y="427.8786"
      id="text1060"><tspan
@@ -500,22 +500,22 @@
        id="tspan1058"
        x="666.40985"
        y="427.8786"
-       style="text-align:center;text-anchor:middle;stroke-width:1.15408397">Curso de 40 horas: 27 a 30 de Maio</tspan><tspan
+       style="text-align:center;text-anchor:middle;stroke-width:1.15408397;stroke:none;stroke-opacity:1;">Curso de 40 horas: 24 a 27 de junho</tspan><tspan
        sodipodi:role="line"
        x="666.40985"
        y="485.58279"
-       style="text-align:center;text-anchor:middle;stroke-width:1.15408397"
-       id="tspan1064">Curso de 20 horas: 27 a 29 de Maio</tspan><tspan
+       style="text-align:center;text-anchor:middle;stroke-width:1.15408397;stroke:none;stroke-opacity:1;"
+       id="tspan1064">Curso de 20 horas: 24 a 26 de junho</tspan><tspan
        sodipodi:role="line"
        x="666.40985"
        y="543.28699"
-       style="text-align:center;text-anchor:middle;stroke-width:1.15408397"
+       style="text-align:center;text-anchor:middle;stroke-width:1.15408397;stroke:none;stroke-opacity:1;"
        id="tspan889">Hora: 08H00 ás 17H00</tspan><tspan
        sodipodi:role="line"
        x="666.40985"
        y="600.99121"
        id="tspan1062"
-       style="text-align:center;text-anchor:middle;stroke-width:1.15408397" /></text>
+       style="text-align:center;text-anchor:middle;stroke-width:1.15408397;stroke:none;stroke-opacity:1;" /></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
